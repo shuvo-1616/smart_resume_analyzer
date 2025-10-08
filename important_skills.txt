@@ -1,0 +1,14 @@
+Python
+Machine Learning
+Data Analysis
+SQL
+Deep Learning
+NLP
+Computer Vision
+TensorFlow
+PyTorch
+Data Visualization
+Statistics
+Big Data
+AI
+Cloud Computing

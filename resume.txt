@@ -1,0 +1,18 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1234567890
+LinkedIn: linkedin.com/in/johndoe
+
+Objective:
+To secure a challenging Data Scientist role where I can apply my skills in Python, Machine Learning, and Data Analysis.
+
+Skills:
+Python, Machine Learning, Deep Learning, Data Analysis, NLP, SQL, TensorFlow, PyTorch
+
+Experience:
+Data Scientist | XYZ Corp | 2022-2025
+- Developed ML models for predicting customer churn.
+- Automated data pipelines using Python and SQL.
+
+Education:
+B.Sc in Computer Science | ABC University | 2018-2022
